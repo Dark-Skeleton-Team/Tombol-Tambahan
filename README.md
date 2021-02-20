@@ -10,3 +10,5 @@ $ git clone https://github.com/Dark-Skeleton-Team/Tombol-Tambahan
 $ python2 tambahan.py
 
 Done
+
+![Screenshot](https://raw.githubusercontent.com/Dark-Skeleton-Team/Tombol-Tambahan/main/ss.jpg)
