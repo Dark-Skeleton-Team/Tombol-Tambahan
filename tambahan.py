@@ -7,7 +7,7 @@ b ='\033[91m'
 c ='\033[0m'
 os.system('clear')
 print(a+'\t  Tombol Tambahan Termux ')
-print(a+'\t  UP,Down,right,Left, CTRL ')
+print(a+'\t  UP,Down,Right,Left,CTRL,ALT')
 print(b+'\t  By: Gar2007@Dark Skeleton Team')
 print('\t Web : http://darkskeletonteam.site')
 print('\t Github : https://github.com/Dark-Skeleton-Team')
